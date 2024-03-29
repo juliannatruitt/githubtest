@@ -3,3 +3,6 @@ line 2.
 line 3.
 line 4.
 and line 5.
+adding line.
+adding another line.
+adding a third line.
